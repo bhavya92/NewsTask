@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsTask</string>
+
+    <string name="retry">Retry</string>
+    <string name="news_error">An error occurred while loading</string>
+</resources>
